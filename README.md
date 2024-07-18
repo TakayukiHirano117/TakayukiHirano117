@@ -1,4 +1,4 @@
-👽Hi, My name is Takayuki Hirano, I'm a software and system development biginner in Tokyo!
+👽Hi, My name is Takayuki Hirano, I'm a software and system development beginner in Tokyo!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakayukiHirano117&theme=blueberry)
 
